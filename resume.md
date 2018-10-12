@@ -2,13 +2,14 @@
 layout: page
 title: Resume
 permalink: /resume/
+
 ---
-[<a href="resumee.pdf" download>icon-download.html</a>]
+[<img src="/assets/download.png" width="250">](resumee.pdf)
 ## Jason Kwan
 
 469.774.0512  
 [jkk140230@utdallas.edu](mailto:jkk140230@utdallas.edu)  
-[www.linkedin.com/in/jason-kwan](www.linkedin.com/in/jason-kwan)
+[www.linkedin.com/in/jason-kwan](https://www.linkedin.com/in/jason-kwan)
 
 
 ### EDUCATION
@@ -26,7 +27,7 @@ Construction Engineer (June 2015 - May 2017)
 * Teaching and mentoring students from the local school district as a part of their architecture interning program
 * Overseeing the training of new hires to ensure proper integration into the workplace
 
-#### Target - Frisco Texas &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;July 2014 - December 2014
+#### Target - Frisco Texas &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;July 2014 - December 2014
 Hardlines
 * Efficiently moved products from storage onto the sales floor
 * Promoted various products to satisfy customer needs
@@ -34,8 +35,8 @@ Hardlines
 * Assisted teammates by moving to cash register during rush hour to alleviate the workload
 
 #### TECHNICAL SKILLS
-Languages: C++, Java, Python, HTML, Markdown
-Tools: Advanced skill in all MS programs including excel, Knowledge on advanced computing and networking problems, Proficient in AutoCAD, Built computers
+Languages: C++, Java, Python, HTML, Markdown  
+Tools: Advanced skill in all MS programs including excel, knowledge on advanced computing and networking problems, Proficient in AutoCAD, Built computers
 
 #### ADDITIONAL INFORMATION
 Languages: Conversational in Cantonese.
