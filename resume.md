@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 
 ---
-[<img src="assets/download.png" width="250">](resumee.pdf)
+[<img src="download.png" width="250">](resumee.pdf)
 ## Jason Kwan
 
 469.774.0512  
