@@ -19,13 +19,15 @@ description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
+#baseurl: ""
+#url: ""
 baseurl: "/timtimtim" # the subpath of your site, e.g. /blog
 url: "https://ajofkn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ajofkn
 linkedin_username: jason-kwan
 author:
   name: Jason kwan
-  picture: ![](/assets/download.png =300x300)
+  picture: <img src="{{ site.baseurl }}/assets/download.png" width="250">
 
 
 # Build settings
@@ -34,7 +36,10 @@ markdown: kramdown
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
 plugins:
 
-  #- jekyll-feed
+collections:
+  work_projects:
+    output: true
+    permalink: /:collection/:path/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
