@@ -2,6 +2,7 @@
 title: "Architecture Projects"
 layout: page
 image:
-  thumbnail: /assets/download.png
+  path: /assets/18396-1.jpg
+  thumbnail: /assets/18396Thumbnail.jpg
 
 ---

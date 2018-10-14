@@ -27,7 +27,7 @@ github_username:  ajofkn
 linkedin_username: jason-kwan
 author:
   name: Jason kwan
-  picture: <img src="{{ site.baseurl }}/assets/download.png" width="250">
+  picture: /assets/18396Thumbnail.jpg
 
 
 # Build settings

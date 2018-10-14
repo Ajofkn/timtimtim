@@ -5,7 +5,7 @@ collection: work_projects
 permalink: /work_projects/
 entries_layout: grid
 image:
-  path: /assets/heroimage.jpg
+  path: /assets/WorkImage.jpeg
 
 ---
 
