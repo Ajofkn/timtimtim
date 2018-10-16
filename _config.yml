@@ -25,7 +25,7 @@ github_username:  ajofkn
 linkedin_username: jason-kwan
 author:
   name: Jason kwan
-  picture: /_includes/icon-pdf.svg
+  picture: https://api.adorable.io/avatars/285/johndoe.png
 
 
 # Build settings
