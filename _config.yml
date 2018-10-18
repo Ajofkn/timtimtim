@@ -17,10 +17,10 @@ title: Jason's Portfolio
 email: ajofkn@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is Jason's portfolio website
-baseurl: ""
-url: ""
-#baseurl: "/timtimtim" # the subpath of your site, e.g. /blog
-#url: "https://ajofkn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: ""
+#url: ""
+baseurl: "/timtimtim" # the subpath of your site, e.g. /blog
+url: "https://ajofkn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ajofkn
 linkedin_username: jason-kwan
 author:
@@ -30,8 +30,8 @@ author:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-basically-basic
-#remote_theme: "mmistakes/jekyll-theme-basically-basic"
+#theme: jekyll-theme-basically-basic
+remote_theme: "mmistakes/jekyll-theme-basically-basic"
 plugins:
 
 collections:
