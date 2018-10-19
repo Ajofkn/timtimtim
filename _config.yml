@@ -25,12 +25,11 @@ github_username:  ajofkn
 linkedin_username: jason-kwan
 author:
   name: Jason kwan
-  picture: https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/10455061_10203756023915917_5182032085447569452_n.jpg?_nc_cat=109&oh=8470ef1a416b054f94a7b5640e98e83e&oe=5C5059F9
-
+  picture: https://scontent-dfw5-1.xx.fbcdn.net/v/t1.0-9/44247860_2138082639842302_1972694744093949952_n.jpg?_nc_cat=105&oh=8338d80bd2cd5a06dcfe6ad3191f32a2&oe=5C5F2577
 
 # Build settings
 markdown: kramdown
-#theme: jekyll-theme-basically-basic
+theme: jekyll-theme-basically-basic
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
 plugins:
 
