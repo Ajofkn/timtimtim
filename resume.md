@@ -22,7 +22,7 @@ Manager of Technical Support (June 2015 - Present)
 * Proposing various technical implementations that would increase efficiency in the office
 * Assisting in implementing a new inventory software for an office of over 40 people  
 
-Construction Engineer (June 2015 - May 2017)
+Construction Engineer (June 2015 - Present)
 * Designing and aiding in creating structurally sound floor systems for locally built housing
 * Teaching and mentoring students from the local school district as a part of their architecture interning program
 * Overseeing the training of new hires to ensure proper integration into the workplace
