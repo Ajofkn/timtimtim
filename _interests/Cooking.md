@@ -2,8 +2,8 @@
 title: "Cooking"
 layout: page
 image:
-  path: /assets/18396-1.jpg
-  thumbnail: /assets/18396Thumbnail.jpg
+  path: /assets/COOKING.png
+  thumbnail: /assets/COOKING.png
 ---
 
 ## Why I love it  

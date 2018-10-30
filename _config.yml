@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jason's Portfolio
+title: Jason Kwan's Portfolio
 email: ajofkn@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is Jason's portfolio website
@@ -25,8 +25,7 @@ github_username:  ajofkn
 linkedin_username: jason-kwan
 author:
   name: Jason kwan
-  picture: https://scontent-dfw5-1.xx.fbcdn.net/v/t1.0-9/44247860_2138082639842302_1972694744093949952_n.jpg?_nc_cat=105&oh=8338d80bd2cd5a06dcfe6ad3191f32a2&oe=5C5F2577
-
+  picture: https://scontent-dfw5-1.xx.fbcdn.net/v/t1.0-9/45141944_2144530269197539_2380416028157935616_n.jpg?_nc_cat=106&_nc_ht=scontent-dfw5-1.xx&oh=7a59649eaf7becde830a204730fbfe17&oe=5C7DC7AC
 # Build settings
 markdown: kramdown
 #theme: jekyll-theme-basically-basic
